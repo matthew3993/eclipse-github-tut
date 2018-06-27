@@ -2,6 +2,11 @@
 *.class
 bin/
 
+### Eclipse ###
+.settings/
+.project
+.classpath
+
 # Log file
 *.log
 
